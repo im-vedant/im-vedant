@@ -17,8 +17,8 @@
 
 I started [tensortonic.com](https://tensortonic.com) as a freelance project - an interactive ML mathematics education platform that breaks down complex ML papers (Transformers, BERT, ResNet, GANs) into hands-on coding problems. Ended up going full time on it as the sole engineer.
 
-- **22,000+ users** in 4 months
-- **150,000+ Google Search impressions**
+- **29,000+ users** in 4 months
+- **500,000+ Google Search impressions**
 - Built and owns the entire stack - frontend, backend, infrastructure, DevOps, SEO
 
 ---
