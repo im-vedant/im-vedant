@@ -27,7 +27,7 @@ I started [tensortonic.com](https://tensortonic.com) as a freelance project - an
 
 | Company | Role | What I did |
 |---|---|---|
-| [TensorTonic](https://tensortonic.com) | Tech Lead (Solo Engineer) | Built the entire product from scratch, scaled to 22K users |
+| [TensorTonic](https://tensortonic.com) | Tech Lead (Solo Engineer) | Built the entire product from scratch, scaled to 34k users |
 | [Adopt AI](https://adoptai.co) | AI Engineer Intern | Production LLM agent workflows and evaluation pipelines |
 | [Expedia Group](https://expedia.com) | SDE Intern | Resiliency Audit Service in Kotlin/Spring Boot, GitHub + ServiceNow integrations, 90%+ test coverage |
 | [Fleeguide Travels](https://fleeguide.com) | Full Stack Developer | MERN stack, WhatsApp automation via Facebook Graph API |
